@@ -1,0 +1,2 @@
+# FlaskOnHeroku
+Visual Studioで作ったFlaskアプリをGitHub経由でHerokuにデプロイする方法を調査するために利用したコードです。
